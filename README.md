@@ -63,7 +63,7 @@ The final exercise deals with VLANs and routing. The exercise covers:
 
 **Angelos Nikolaos Potamianos**  
 Student ID: 1084537  
-Email: up1084537@upnet.gr
+Email: up1084537@ac.upatras.gr
 
 ## License
 
